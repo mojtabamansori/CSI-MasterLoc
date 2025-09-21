@@ -19,17 +19,23 @@ This repository contains our custom **CSI dataset** collected specifically for i
 
 ---
 
-## 💻 Code Structure
-The project will include:
-- `data/` → CSI dataset files  
-- `src/` → Data preprocessing & feature extraction code  
-- `models/` → Machine learning / deep learning models for localization  
-- `notebooks/` → Jupyter notebooks for analysis & experiments  
+## 💻Gen 1:
 
 ---
 
-## ⚡ Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Masterminds-Team/CSI-MasterLoc.git
-   cd CSI-MasterLoc
+## 💻Gen 2:
+
+---
+
+## 💻Gen 3:
+
+---
+
+## 💻Gen 4:
+
+---
+
+## 💻Gen 5:
+
+---
+
